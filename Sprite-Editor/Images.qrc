@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>spriteicon.ico</file>
+    </qresource>
+</RCC>
