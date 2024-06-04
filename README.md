@@ -9,6 +9,8 @@ A pixel sprite editor with animation abilities made with C++ using Qt Creator
 - Export a frame to a png
 - Live animation playback
 
+[Watch a Youtube demo](https://www.youtube.com/watch?v=56juJ4aOxg4&ab_channel=DIEGOPEREZ)
+
 ### Demo Images
 ![image](https://github.com/Dpere22/Sprite-Editor/assets/142926404/d1cdd08e-18c4-4c6f-9269-ae23b341814c)
 ![image](https://github.com/Dpere22/Sprite-Editor/assets/142926404/431ffab6-98f5-42b8-bb2d-a986850292be)
